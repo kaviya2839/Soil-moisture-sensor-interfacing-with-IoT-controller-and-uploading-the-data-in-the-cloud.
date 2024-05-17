@@ -1,5 +1,5 @@
-### NAME : AMRUTHA RAJSHEKER
-### REG NO : 212222110003
+### NAME : KAVIYA SHREE S
+### REG NO : 212222110018
 
 # EXPERIMENT 5 - Soil moisture sensor interfacing with IoT controller and uploading the data in the cloud.
 
